@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568454894 source:d:\project\cplus\1\main.cpp
+	<iostream>
+	<stdio.h>
+
+1592398182 source:d:\project\cplus\2019\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+

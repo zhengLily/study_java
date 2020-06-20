@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568869240 source:d:\project\cplus\test\main.cpp
+	<iostream>
+	<string>
+
